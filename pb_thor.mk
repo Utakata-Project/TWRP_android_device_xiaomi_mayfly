@@ -20,13 +20,13 @@ DEVICE_PATH := device/xiaomi/mayfly
 $(call inherit-product, $(DEVICE_PATH)/device.mk)
 
 # Release name
-PRODUCT_RELEASE_NAME := unicorn
+PRODUCT_RELEASE_NAME := thor
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mayfly
-PRODUCT_NAME := twrp_unicorn
+PRODUCT_NAME := pb_thor
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi 12S Pro
+PRODUCT_MODEL := Xiaomi 12S Ultra
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Assert

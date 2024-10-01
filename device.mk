@@ -29,8 +29,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 # Configure SDCard replacement functionality
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 
-# Configure twrp
-$(call inherit-product, vendor/twrp/config/common.mk)
+# Inherit common product files.
+$(call inherit-product, vendor/pb/config/common.mk)
 
 PRODUCT_PACKAGES += \
     bootctrl.xiaomi_sm8475.recovery \

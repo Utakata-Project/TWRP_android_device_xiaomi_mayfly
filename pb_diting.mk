@@ -24,7 +24,7 @@ PRODUCT_RELEASE_NAME := diting
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mayfly
-PRODUCT_NAME := twrp_diting
+PRODUCT_NAME := pb_diting
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi K50 Ultra
 PRODUCT_MANUFACTURER := Xiaomi

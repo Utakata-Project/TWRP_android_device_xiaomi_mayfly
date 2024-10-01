@@ -24,7 +24,7 @@ PRODUCT_RELEASE_NAME := mayfly
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mayfly
-PRODUCT_NAME := twrp_mayfly
+PRODUCT_NAME := pb_mayfly
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi 12S
 PRODUCT_MANUFACTURER := Xiaomi
